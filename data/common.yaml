@@ -1,0 +1,5 @@
+---
+munge::package_version: installed
+munge::service_name: munge
+# Please use your own key, but this is default if not supplied
+munge::key_source: 'puppet:///modules/munge/etc/munge/munge.key'
