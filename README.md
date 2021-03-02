@@ -1,0 +1,2 @@
+# puppet-munge
+Munge authentication
